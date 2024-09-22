@@ -233,8 +233,7 @@ print(agent.performance)
 ```
 
 <h3>Output:</h3>
-![image](https://github.com/user-attachments/assets/c5aac3f6-d82d-4771-8499-7a0cdb25eb72)
-
+![image](https://github.com/user-attachments/assets/da4d064b-811a-4949-8ec3-286a79a4af69)
 
 <h3>Result</h3>
 
